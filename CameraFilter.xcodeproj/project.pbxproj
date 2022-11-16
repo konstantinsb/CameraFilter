@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A8C44FF2924CB1B00BB7628 /* FilterService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A8C44FE2924CB1B00BB7628 /* FilterService.swift */; };
 		0ACFDE5129238BF10013254D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ACFDE5029238BF10013254D /* AppDelegate.swift */; };
 		0ACFDE5329238BF10013254D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ACFDE5229238BF10013254D /* SceneDelegate.swift */; };
 		0ACFDE5529238BF10013254D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ACFDE5429238BF10013254D /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0A8C44FE2924CB1B00BB7628 /* FilterService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterService.swift; sourceTree = "<group>"; };
 		0ACFDE4D29238BF10013254D /* CameraFilter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CameraFilter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0ACFDE5029238BF10013254D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0ACFDE5229238BF10013254D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				0ACFDE5E29238BF20013254D /* Info.plist */,
 				0AD437722924A73E0043F646 /* PhotoCollectionViewCell.swift */,
 				0ACFDE66292392020013254D /* PhotoCollectionViewController.swift */,
+				0A8C44FE2924CB1B00BB7628 /* FilterService.swift */,
 			);
 			path = CameraFilter;
 			sourceTree = "<group>";
@@ -215,6 +218,7 @@
 				0ACFDE5529238BF10013254D /* ViewController.swift in Sources */,
 				0AD437732924A73E0043F646 /* PhotoCollectionViewCell.swift in Sources */,
 				0ACFDE5129238BF10013254D /* AppDelegate.swift in Sources */,
+				0A8C44FF2924CB1B00BB7628 /* FilterService.swift in Sources */,
 				0ACFDE5329238BF10013254D /* SceneDelegate.swift in Sources */,
 				0ACFDE67292392020013254D /* PhotoCollectionViewController.swift in Sources */,
 			);
